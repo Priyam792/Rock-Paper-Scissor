@@ -32,6 +32,23 @@ Enter your name : Priyam
  Computer choice : Paper
  You Lose!
 
+
+📚 What I Learned
+
+Using #ifdef _WIN32 for cross-platform conditional compilation.
+
+Correct random seeding (srand(time(NULL))) to ensure varied bot moves.
+
+Handling user input safely and skipping invalid rounds.
+
+📌 Next Steps
+
+Let player choose number of rounds.
+
+Add score history.
+
+Maybe extend to “Rock-Paper-Scissors-Lizard-Spock” 😄
+
 Calculating Results..........
  Your score : 1 , Bot's score : 2
  Defeat, Better luck next time
