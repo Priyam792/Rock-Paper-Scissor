@@ -18,7 +18,7 @@ gcc rps.c -o rps
 # On Windows (MinGW)
 gcc rps.c -o rps.exe
 
-#Example Run
+## 🖥️ Example Run
 !!! Rock , Paper , Scissor !!!
 Enter your name : Priyam
 
