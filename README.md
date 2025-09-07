@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor
+# Rock-Paper-Scissors
 A simple **Rock-Paper-Scissors game** written in C with **cross-platform support** for Windows and Linux  🎮.
 
 ## ✨ Features
