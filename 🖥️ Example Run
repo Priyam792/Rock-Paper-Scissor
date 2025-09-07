@@ -1,0 +1,18 @@
+     🖥️ Example Run
+
+!!! Rock , Paper , Scissor !!!
+Enter your name : Priyam
+
+ Use :
+ '1' for Rock
+ '2' for Paper
+ '3' for Scissor
+
+ Your turn : 1
+ Your choice     : Rock
+ Computer choice : Paper
+ You Lose!
+
+Calculating Results..........
+ Your score : 1 , Bot's score : 2
+ Defeat, Better luck next time
